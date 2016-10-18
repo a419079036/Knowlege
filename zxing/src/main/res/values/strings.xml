@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zxing</string>
+    <string name="scan_text">scan</string>
+</resources>
