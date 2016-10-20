@@ -21,14 +21,14 @@
 
         </activity>
         <activity android:name=".CameraActivity">
-
-        </activity>
-        <activity android:name=".ErWeiMaActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+        </activity>
+        <activity android:name=".ErWeiMaActivity">
+
         </activity>
     </application>
 

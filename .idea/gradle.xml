@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cryptodemo" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/rsademo" />
+            <option value="$PROJECT_DIR$/sensordemo" />
             <option value="$PROJECT_DIR$/zxing" />
           </set>
         </option>
